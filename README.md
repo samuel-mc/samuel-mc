@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, World 👋
 
 <!--
 **samuel-mc/samuel-mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
