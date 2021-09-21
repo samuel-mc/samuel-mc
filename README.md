@@ -1,7 +1,19 @@
-### Hello, World 👋
+### Hello, World 👋 my name is Samuel
 
 ⬅ It's me.
 
+#### I am Junior Developer
+
+Skills: JAVA / REACT / JS / HTML / CSS
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samuel-mc)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-mc&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-mc)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/samuel-mc)  
 
 
 <!--
